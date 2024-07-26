@@ -8,5 +8,6 @@ Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 The page will reload if you make edits.\
 
 ### Deployment
-This section moved here:[https://loginformashish.netlify.app].(https://loginformashish.netlify.app)
+This section moved here:
+(https://loginformashish.netlify.app)
 
