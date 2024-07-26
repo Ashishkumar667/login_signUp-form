@@ -1,20 +1,5 @@
-*{
-    margin: auto;
-    padding: 0%;
-    box-sizing: border-box;
-}
-.form-container{
-   justify-content:center;
-    background-color:#9294968a;
-    text-align:center;
-    width:50vh;
-    height:50vh;
-    margin-top:24vh;
-    border-radius:24px;
-    font-family:cursive;
-    font-size:35px;
-    color:#146c27bf;box-shadow:9px 8px 9px #0000006b;
-}
+*{margin: auto;padding: 0%;box-sizing: border-box;
+}.form-container{justify-content:center;background-color:#9294968a;text-align:center;width:50vh;height:50vh;margin-top:24vh;border-radius:24px;font-family:cursive;font-size:35px;color:#146c27bf;box-shadow:9px 8px 9px #0000006b;}
 .form-container h2{
     color:black
 }#password{ width:25vh ;border-radius: 5px;height:30px;background-color:bisque}
