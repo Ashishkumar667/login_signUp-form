@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 //use EJS as the view engine ..we can use pug,hbs also
 app.set("view engine", "ejs");
-
+app.use(express.static(path.join(__dirname,'public')));
 app.get("/", (req, res) => {
     res.render("login");
 });
